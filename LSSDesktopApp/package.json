@@ -1,6 +1,6 @@
 {
-  "name": "lsselectrondesktop",
-  "version": "0.1.0",
+  "name": "LSSDesktop",
+  "version": "1.0.0",
   "description": "Fun?",
   "main": "main.js",
   "scripts": {

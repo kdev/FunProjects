@@ -1,4 +1,7 @@
 icon: build/appIcon.png
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
 win:
   target:
     - target: nsis
