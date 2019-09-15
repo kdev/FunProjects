@@ -2,6 +2,7 @@ icon: build/appIcon.png
 nsis:
   oneClick: false
   allowToChangeInstallationDirectory: true
+  license: LICENSE.txt
 win:
   target:
     - target: nsis
