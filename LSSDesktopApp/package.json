@@ -9,7 +9,7 @@
   "author": "KokosnussDEV",
   "license": "Apache-2.0",
   "devDependencies": {
-    "electron": "^22.3.21",
+    "electron": "^22.3.24",
     "electron-builder": "latest"
   }
 }
